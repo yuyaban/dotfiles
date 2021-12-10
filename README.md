@@ -9,7 +9,6 @@ dotfiles
 │   └── .zshrc
 └── scripts
     └── install.sh
-
 ```
 
 ## Installation
